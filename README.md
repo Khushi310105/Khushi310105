@@ -62,12 +62,16 @@ Here are some ideas to get you started:
 ### 🚀 Frameworks & Libraries
 
 <p align="left">
-<img src="https://skillicons.dev/icons?i=numpy" />
+<!-- <img src="https://skillicons.dev/icons?i=numpy" />
 <img src="https://skillicons.dev/icons?i=pandas" />
 <img src="https://skillicons.dev/icons?i=scikit-learn" />
 <img src="https://skillicons.dev/icons?i=pytorch" />
 <img src="https://skillicons.dev/icons?i=express js" />
-<img src="https://skillicons.dev/icons?i=node js" />
+<img src="https://skillicons.dev/icons?i=node js" /> -->
+
+<!-- <img src="https://skillicons.dev/icons?i=pandas,numpy,tensorflow,pytorch,mysql,git,github,vscode" /> -->
+
+<img src="https://skillicons.dev/icons?i=pandas,numpy,sklearn,pytorch,react,nodejs,mysql,mongodb,git,github,vscode&theme=dark" />
 </p>
 
 ---
