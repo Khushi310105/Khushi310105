@@ -49,7 +49,13 @@ Here are some ideas to get you started:
 ### 💻 Tech Stack
 
 <p align="left">
+<img src="https://skillicons.dev/icons?i=java" />
 <img src="https://skillicons.dev/icons?i=python" />
+<img src="https://skillicons.dev/icons?i=c" />
+<img src="https://skillicons.dev/icons?i=cpp" />
+<img src="https://skillicons.dev/icons?i=js" />
+<img src="https://skillicons.dev/icons?i=python" />
+ 
 </p>
 
 ---
