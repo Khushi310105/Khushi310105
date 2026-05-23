@@ -39,7 +39,7 @@ Here are some ideas to get you started:
 <img align="center" src="https://skillicons.dev/icons?i=linkedin" height="40" />
 </a>
 
-<a href="mailto:YOURMAIL@gmail.com">
+<a href="mailto:khushi310105@gmail.com">
 <img align="center" src="https://skillicons.dev/icons?i=gmail" height="40" />
 </a>
 </p>
@@ -49,7 +49,7 @@ Here are some ideas to get you started:
 ### 💻 Tech Stack
 
 <p align="left">
-<img src="https://skillicons.dev/icons?i=python,java,c,cpp,js,html,css,express js,node js,mysql,git,github,vscode" />
+<img src="https://skillicons.dev/icons?i=python" />
 </p>
 
 ---
