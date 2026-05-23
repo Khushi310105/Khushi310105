@@ -54,7 +54,6 @@ Here are some ideas to get you started:
 <img src="https://skillicons.dev/icons?i=c" />
 <img src="https://skillicons.dev/icons?i=cpp" />
 <img src="https://skillicons.dev/icons?i=js" />
-<img src="https://skillicons.dev/icons?i=python" />
  
 </p>
 
@@ -63,7 +62,12 @@ Here are some ideas to get you started:
 ### 🚀 Frameworks & Libraries
 
 <p align="left">
-<img src="https://skillicons.dev/icons?i=numpy, pandas, scikit-learn,pytorch,opencv" />
+<img src="https://skillicons.dev/icons?i=numpy" />
+<img src="https://skillicons.dev/icons?i=pandas" />
+<img src="https://skillicons.dev/icons?i=scikit-learn" />
+<img src="https://skillicons.dev/icons?i=pytorch" />
+<img src="https://skillicons.dev/icons?i=express js" />
+<img src="https://skillicons.dev/icons?i=node js" />
 </p>
 
 ---
